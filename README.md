@@ -1,3 +1,3 @@
 # Skymind Education Group
 Website link
-https://drpraneshkrishnan.github.io/seg.github.io/
+https://drpraneshkrishnan.github.io/aiup_mock/
